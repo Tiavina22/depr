@@ -1,10 +1,10 @@
 # Developer Depression Patterns
 
-Ce dépôt regroupe des exemples de code illustrant la dépression des développeurs, que ce soit liée au travail ou à l'amour. Les blocages, la fatigue mentale et les frustrations amoureuses se reflètent à travers des bugs, erreurs, et fonctions incomplètes.
+This repo has some code examples that show developer depression, whether it’s from work or love. Mental blocks, tiredness, and relationship problems come out in bugs, errors, and unfinished functions.
 
-## Objectif
+## Goal
 
-Sensibiliser sur la dépression chez les développeurs, qu'elle soit professionnelle ou personnelle. Si tu te reconnais dans ces exemples, parle-en à un proche ou un professionnel.
+To raise awareness about depression in developers, whether it’s from work stuff or personal life. If you relate to these examples, please talk to someone you trust or a professional.
 
 ## Languages Covered
 - Dart
