@@ -22,26 +22,35 @@ void main() {
   depthFirstSearchMeme();
 }
 ```
+Are you a GitHub branch? 'Cuz I'm trying to merge with you. 🌟
+```dart
+void gitBranch() {
+  String you2 = "GitHub branch";
+  String me = "trying to merge with you";
+
+  if (you2 == "GitHub branch") {
+    print("Are you a $you2? 'Cuz I'm $me. 🌟");
+  }
+}
+
+void main() {
+  gitBranch();
+}
+```
 I must be a function. Cause every time I look at you, I keep returning to you. 😕😆
 ```dart
-void main() {
+void function() {
   String iAm = "function";
   String you = "you";
 
   if (iAm == "function") {
-    print("I must be a $iAm. Cause every time I look at $you, I keep returning to you. 😕😆");
+    print(
+        "I must be a $iAm. Cause every time I look at $you, I keep returning to you. 😕😆");
   }
 }
-```
-Are you a GitHub branch? 'Cuz I'm trying to merge with you. 🌟
-```dart
-void main() {
-  String you = "GitHub branch";
-  String me = "trying to merge with you";
 
-  if (you == "GitHub branch") {
-    print("Are you a $you? 'Cuz I'm $me. 🌟");
-  }
+void main() {
+  function();
 }
 ```
 
