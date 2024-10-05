@@ -22,6 +22,28 @@ void main() {
   depthFirstSearchMeme();
 }
 ```
+I must be a function. Cause every time I look at you, I keep returning to you. 😕😆
+```dart
+void main() {
+  String iAm = "function";
+  String you = "you";
+
+  if (iAm == "function") {
+    print("I must be a $iAm. Cause every time I look at $you, I keep returning to you. 😕😆");
+  }
+}
+```
+Are you a GitHub branch? 'Cuz I'm trying to merge with you. 🌟
+```dart
+void main() {
+  String you = "GitHub branch";
+  String me = "trying to merge with you";
+
+  if (you == "GitHub branch") {
+    print("Are you a $you? 'Cuz I'm $me. 🌟");
+  }
+}
+```
 
 ## Java Depression
 Are you an exception? Because I've caught feelings for you! 😑😆
@@ -45,8 +67,23 @@ public class DebuggerLove {
     }
 }
 ```
+Are you a node?? 'Cause I have a pointer to your heart 🥹😆.
+🔘->null nefa...
+```java
+public class NodePointer {
+    public static void main(String[] args) {
+        String you = "node";
+        String pointer = "pointer to your heart";
 
-## Java Depression
+        if (you.equals("node")) {
+            System.out.println("Are you a " + you + "?? 'Cause I have a " + pointer + " 🥹😆.");
+            System.out.println("🔘->null... mais je continue d'espérer.");
+        }
+    }
+}
+```
+
+## Typescript Depression
 Are you a closure? Because you’ve captured my heart! 😑😆
 ```typescript
 function closureMeme(): void {
@@ -54,4 +91,17 @@ function closureMeme(): void {
 }
 
 closureMeme();
+```
+Will you be my compiler? 'Cause I can't run without you 😕😆
+```typescript
+function expressFeelings() {
+    const you = "compiler";
+    const me = "can't run without you";
+
+    if (you === "compiler") {
+        console.log(`Will you be my ${you}? 'Cause I ${me} 😕😆.`);
+    }
+}
+
+expressFeelings();
 ```
